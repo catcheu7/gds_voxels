@@ -18,4 +18,5 @@ Visualization of gds files as voxels
 Features
 --------
 
-* TODO
+* Python viewing of GDS layers
+* 3d plotting and customization based on user selection
