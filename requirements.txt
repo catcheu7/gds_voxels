@@ -1,1 +1,10 @@
 # List required packages in this file, one per line.
+numpy
+matplotlib
+ipython
+sys
+gdspy
+functools
+h5py
+shapely
+pandas
