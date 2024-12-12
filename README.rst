@@ -19,4 +19,5 @@ Features
 --------
 
 * Python viewing of GDS layers
-* 3d plotting and customization based on user selection
+* 3d simulations of GDS design
+* Multislicing based simulations on 3d patterns
