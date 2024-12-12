@@ -6,5 +6,8 @@ sys
 gdspy
 functools
 h5py
-shapely
 pandas
+os
+scipy
+shapely
+xrayutilities.io
