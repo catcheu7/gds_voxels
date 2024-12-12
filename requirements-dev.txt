@@ -1,2 +1,5 @@
 flake8
 pytest
+numpy
+matplotlib
+PyQt5
