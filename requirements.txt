@@ -12,3 +12,4 @@ scipy
 shapely
 multiprocessing
 math
+pyside6
