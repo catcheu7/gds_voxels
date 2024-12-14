@@ -5,7 +5,6 @@ ipython
 sys
 gdspy
 functools
-h5py
 os
 scipy
 shapely
